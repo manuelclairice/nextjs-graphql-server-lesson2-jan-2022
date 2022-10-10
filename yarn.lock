@@ -468,10 +468,10 @@ kleur@^4.1.0:
   resolved "https://registry.yarnpkg.com/kleur/-/kleur-4.1.4.tgz#8c202987d7e577766d039a8cd461934c01cda04d"
   integrity sha512-8QADVssbrFjivHWQU7KkMgptGTl6WAcSdlbBPY4uNF+mWr6DGcKrvY2w4FQJoXch7+fKMjj0dRrL75vk3k23OA==
 
-ley@0.7.1:
-  version "0.7.1"
-  resolved "https://registry.yarnpkg.com/ley/-/ley-0.7.1.tgz#dadb1690aab066713a67ebad2bed782d4b730ff6"
-  integrity sha512-oVgyFF+i/Uzm5q6HYY5jT+ADHkv2Z1wh8LNt2dYLvWiKN5tsEjzWmWAk8gn1VVpwI8Drj+lLYIHio7A67zskUA==
+ley@0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/ley/-/ley-0.8.1.tgz#6e9b750f9850d87f65e7a2f4390900fa4c653a28"
+  integrity sha512-8Nd5uzie4PxiEJcQNv5YL1IQCMzye/0sE8VPB4KczJkyd44NfDyK/7Vbmp9eHYt+dJ4hxaXy+gF4DORSxYGArg==
   dependencies:
     kleur "^4.1.0"
     mk-dirs "^3.0.0"
