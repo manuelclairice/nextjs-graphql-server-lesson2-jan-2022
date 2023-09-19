@@ -10,7 +10,7 @@
     "apollo-server-micro": "3.10.1",
     "dotenv": "16.0.1",
     "dotenv-cli": "6.0.0",
-    "graphql": "16.6.0",
+    "graphql": "16.8.1",
     "ley": "0.7.1",
     "next": "latest",
     "postgres": "3.2.4",
