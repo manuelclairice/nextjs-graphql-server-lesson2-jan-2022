@@ -13,7 +13,7 @@
     "graphql": "16.6.0",
     "ley": "0.7.1",
     "next": "latest",
-    "postgres": "3.2.4",
+    "postgres": "3.4.4",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   }
