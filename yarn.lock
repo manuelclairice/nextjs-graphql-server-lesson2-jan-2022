@@ -645,10 +645,10 @@ postcss@8.4.5:
     picocolors "^1.0.0"
     source-map-js "^1.0.1"
 
-postgres@3.2.4:
-  version "3.2.4"
-  resolved "https://registry.yarnpkg.com/postgres/-/postgres-3.2.4.tgz#3b0a0d69b572bb1736662f68e3bbad4d69fb553c"
-  integrity sha512-iscysD+ZlM4A9zj0RS2zo3f4Us4yuov94Yx+p3dE1rEARaBHC8R3/gRq40KEnWp1lxjuFq9EjuAenIUsPaTaDA==
+postgres@4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/postgres/-/postgres-4.1.1.tgz#19f4b317d6fb7aac1ed4a9f7550957ddadee65da"
+  integrity sha512-1kJDojqNZC+iTHHXh6eif0J98LUtyLAePe/qkW1GK35eh2JixlsAiIKq3FGI+xqI+SUGTNodzf7TScVeIIyUug==
 
 react-dom@18.2.0:
   version "18.2.0"
